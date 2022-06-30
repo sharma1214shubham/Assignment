@@ -1,0 +1,302 @@
+@media(min-width:300px) and (max-width:700px){
+    html h1{
+    font-family:'Just Another Hand';
+    font-weight: lighter;
+}
+}
+@media(min-width:300px) and (max-width:700px){
+    html p,h2,h3,h4,a,ul li{
+    font-family:'poppins';
+}
+}
+@media(min-width:300px) and (max-width:700px){
+    #logo{
+        margin-right:10px;
+        margin-left: 10px;
+}
+}
+@media(min-width:300px) and (max-width:700px){
+    .nav{
+        visibility: hidden;
+        display: none;
+}
+}
+@media(min-width:300px) and (max-width:700px){
+    #main{
+        width: 95%;
+        display: block;
+        margin-right:10px;
+        margin-left: 10px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #header{
+        width: 100%;
+        display: block;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #about{
+        width: 100%;
+        display:flex;
+        flex-direction: column-reverse;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .tag{
+        width: 100%;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .info{
+        width: 100%;
+
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .info h2{
+        font-size: 42px;
+
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .info p{
+        font-size: 16.5px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .info button{
+        font-size: 19px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .info a{
+        font-size:16px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #hwa-info{
+        width: 100%;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #hwa-info h2{
+        padding-top: 40px;
+        font-size: 36px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #hwa-info p{
+        font-size: 16px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #hwa-info button{
+        font-size: 18px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .tagg{
+        width: 100%;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #des{
+        margin-left:0;
+        margin-right: 0;
+        width: 100%;
+        margin-bottom:75px;
+        margin-top: 100px;
+        
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #des-head{
+        font-size: 28px;
+        margin-bottom: 32px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #pinfo{
+        margin-top:98px;
+        margin-left:4px;
+        width: 42.3%;
+        padding:2px 5px;
+        border-radius: 5px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .place{
+        font-size:8px;
+        padding-bottom:1px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .plan{
+        font-size: 6px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .des-img1{
+        width:47.5%;
+        height: 128px;
+        margin-right: 15px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .des-img2{
+        width: 48%;
+        height: 128px;
+        margin-right: 0;
+
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .des-img3{
+        visibility: hidden;
+        display: none;
+
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .des-img4{
+        width:47.5%;
+        height: 128px;
+        margin-right: 15px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .des-img5{
+        width:48%;
+        height: 128px;
+        margin-right: 0;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .des-img6{
+        visibility: hidden;
+        display: none;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .btnn{
+        margin-top:25px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    .btnn button{
+        padding:10px 12px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #review{
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+        display: block;
+
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #rhead{
+        font-size:30px;
+    }
+}
+@media(min-width:300px) and (max-width:1300px){
+    .rm{
+        width: 100%;
+        display: block;
+        border-radius:10px;
+        margin-bottom: 10px;
+        
+    }
+}
+@media(min-width:300px) and (max-width:1300px){
+    .rm h3{
+        font-size: 13px;        
+    }
+}
+@media(min-width:300px) and (max-width:1300px){
+    .rm p{
+        font-size: 11px;
+    }
+}
+@media(min-width:300px) and (max-width:1300px){
+    .rm h4{
+        font-size: 12px;        
+    }
+}
+@media(min-width:300px) and (max-width:1300px){
+    .r1-img{
+        height:auto;
+        border-radius:10px;
+        
+    }
+}
+@media(min-width:300px) and (max-width:1300px){
+    .btnn{
+        margin-top: 20px;
+        margin-bottom: 40px;  
+    }
+}
+@media(min-width:300px) and (max-width:1300px){
+    .r2-img{
+        height:auto;
+        border-radius:10px;
+        
+    }
+}
+
+@media(min-width:300px) and (max-width:700px){
+    #signup{
+        width: 100%;
+        margin-top: 5px;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #footer{
+            width: 100%;
+           text-align: center;
+           padding: 10px 0;
+    }
+}
+
+@media(min-width:300px) and (max-width:700px){
+    #finfo{
+            width: 70%;
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #finfo h2{
+        font-size:15px;        
+    }
+}
+@media(min-width:300px) and (max-width:700px){
+    #finfo p{
+        font-size: 7.5px; 
+        padding: 0 30px;
+    }
+}
+ @media(min-width:300px) and (max-width:700px){
+    #up{
+        top: -1px;
+    right: 69px;
+    padding: 8px 20px;
+    border-radius: 7px;
+    font-size: 7px;
+    }
+} 
+@media(min-width:300px) and (max-width:700px){
+    .search{
+        padding-right:10px;
+        margin-left:67px;
+        width: 55%;
+
+    }
+}
+@media(min-width:300px) and (max-width:500px) {
+    #fcontact{
+      visibility: hidden;
+      display: none;
+    }
+}
