@@ -90,7 +90,6 @@ ul li{
 #hwa{
     display: flex;
     justify-content: space-around;
-    /* margin-left: 140px; */
     align-items: center;
 }
 .tagg{
@@ -131,8 +130,7 @@ ul li{
     margin-bottom: 30px;
 }
 #des-info{
-    display: flex;
-    
+    display: flex;  
 }
 .des-img1{
     background: url('./images/unsplash_H8dcf-v98mA.jpg') no-repeat center/cover;
@@ -149,7 +147,6 @@ ul li{
     color: #2A2B2D;
     width: 43%;
     margin-left: 5px;
-    /* note not working aligin */
     margin-top: 171px;
     padding: 3px 4px;
 }
@@ -187,16 +184,13 @@ ul li{
     border-radius: 10px;
     height: 220px;
     margin-right:20px;
-    /* margin-bottom: 20px; */
 }
 .des-img5{
     background: url('./images/unsplash_7j-8VN91Khk.jpg') no-repeat center/cover;
     width: 32%;
     border-radius: 10px;
     height: 220px;
-    margin-right:20px;
-    /* margin-bottom: 20px; */
-    
+    margin-right:20px;   
 }
 .des-img6{
     background: url('./images/unsplash_ZEfzyduAyJU.jpg') no-repeat center/cover;
@@ -319,15 +313,15 @@ ul li{
     font-weight:lighter;
     font-size: 15px;
 }
-#explore h3{
+#exploree h3{
     font-size: 20px;
     font-weight: lighter;
     padding-bottom: 12px;
 }
-#explore ul{
+#exploree ul{
 	list-style: none;
 }
-#explore ul li{
+#exploree ul li{
 	text-decoration: none;
     padding-top:10px;
     font-size: 13px;
